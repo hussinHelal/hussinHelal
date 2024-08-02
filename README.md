@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi 👋 My name is hussinHelal
+I'm A BackEnd Developer Who Loves Using Php And Laravel
 
-<!--
-**hussinHelal/hussinHelal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i used java for a couple years for normal desktop application but the i moved to web and i loved BackEnd
 
-Here are some ideas to get you started:
+    🌍  I'm based in Tanta, Egypt
+    ✉️  You can contact me at hussinhelal202@gmail.com
+    🧠  I'm learning web techniques to improve my abilities
+    ⚡  i'm Secretly HackerMan ... But Don't Tell AnyOne XD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+Java
+JavaScript
+PHP
+GNU Bash
+VS Code
+Vim
+JQuery
+CSS3
+Bootstrap
+HTML5
+Vue
+MySQL
+Photoshop
+Laravel
+Raspberry Pi
+Linux
+Socials
